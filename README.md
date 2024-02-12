@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-(Link do deploy)
+[Link do Deploy](https://lindermanbr.github.io/DIO-CSS-Formation-Challange-Youtube-Clone/)
 
 Projeto desenvolvido para demonstrar as habilidades adquiridas na formação de CSS da DIO.
 
